@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Allan\Documents\Visual Studio 2017\Projects\Aulas\Csharp.RequisicoesWeb\Parte2\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Allan\Documents\Visual Studio 2017\Projects\Aulas\Csharp.RequisicoesWeb\Recusos\ViewModels\PostViewModel.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
